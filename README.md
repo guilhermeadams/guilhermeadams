@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adams</h1>
-<h3 align="center">A passionate Vet Ultrasonography from Brazil!</h3>
+<h3 align="center">A passionate Vet Ultrasonographer!</h3>
 <img style="width: 100%" src='https://i.imgur.com/CgB57qG.png' alt='github-banner'/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guilhermeadams&label=Profile%20views&color=0e75b6&style=flat" alt="guilhermeadams" /> </p>
 
